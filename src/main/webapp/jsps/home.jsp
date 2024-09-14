@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Kapil Technologies Private Ltd. Ph No: +91-9980923226 ,+91-9900012028,Kota, Rajasthan, India</h1>
-<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS,Terraform & AWS Solution Architect & Terraform in Bangalore India.Teaching Real Time scnerios</h1>
+<h1 align="center"> Ridhhi Siddhi Nagar is very good Nagar- Very Good Training center for DevOps with AWS,Terraform & AWS Solution Architect & Terraform in Bangalore India.Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
